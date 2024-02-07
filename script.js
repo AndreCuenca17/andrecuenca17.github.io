@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "¡Desde aquel dia en la playa lo supe, I love you!";
+  titleElement.innerHTML = "Desde aquel día en la playa, lo supe ¡Te amo!";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
